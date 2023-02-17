@@ -1,0 +1,18 @@
+.Card{
+    width: 22em;
+    margin-left:1em;
+    margin-bottom: 1em;
+    background-color: #c7a374;
+}
+
+.Personagem > img{
+    border: 0.1em solid black;
+    width: 17.5em;
+    height: 14em;
+    object-fit: cover;
+}
+
+h1{
+    margin: 0px;
+    font-size: 3em;
+}
