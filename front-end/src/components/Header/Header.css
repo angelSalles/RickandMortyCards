@@ -1,0 +1,17 @@
+.Header{
+    padding: 0rem;
+    align-items: center;
+    justify-content: space-between;
+    background: rgb(0, 0, 0);
+}
+
+.Header__links{
+    display: flex;
+    gap: 0.5rem;
+    background-color: aqua;
+    margin-top: 0;
+}
+
+.Header__links > a{
+    font-weight: bold;
+}
