@@ -8,7 +8,7 @@ function ReadAll(){
 
         async function realizarRequisicao(){
            // const url = "http://localhost:3000/item";
-            const url = "https://back-rick-cards.onrender.com";
+            const url = "https://back-rick-cards.onrender.com/item";
             const response = await fetch(url);
             const data = await response.json();  
             setItems(data);
