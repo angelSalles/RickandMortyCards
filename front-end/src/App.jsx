@@ -1,5 +1,5 @@
 import Header from './components/Header/Header'
-import ReadAll from './components/ReadAll/readall'
+import ReadAll from './components/ReadAll/ReadAll'
 
 function App() {
 
